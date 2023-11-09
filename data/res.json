@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Katz's",
+        "id": "1",
+        "image": "res1.png"
+    },
+    {
+        "city": "Keens",
+        "id": "2",
+        "image": "res2.png"
+    },
+    {
+        "city": "Balthazar",
+        "id": "3",
+        "image": "res3.png"
+    },
+    {
+        "city": "Hometown",
+        "id": "4",
+        "image": "res4.png"
+    },
+    {
+        "city": "Uncle Boons",
+        "id": "5",
+        "image": "res5.png"
+    },
+    {
+        "city": "Sydney",
+        "id": "5",
+        "image": "res6.png"
+    }
+]

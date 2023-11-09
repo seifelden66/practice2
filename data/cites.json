@@ -1,0 +1,32 @@
+[
+    {
+        "city": "paris",
+        "id": "1",
+        "propsNum": "150",
+        "image": "Paris.png"
+    },
+    {
+        "city": "Beijing",
+        "id": "2",
+        "propsNum": "150",
+        "image": "Beijing.png"
+    },
+    {
+        "city": "NewYork",
+        "id": "3",
+        "propsNum": "491",
+        "image": "Newyork.png"
+    },
+    {
+        "city": "LosAngeles",
+        "id": "4",
+        "propsNum": "201",
+        "image": "LosAngles.png"
+    },
+    {
+        "city": "Sydney",
+        "id":"5",
+        "propsNum": "250",
+        "image": "Sydney.png"
+    }
+]
