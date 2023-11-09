@@ -19,6 +19,8 @@
   "dependencies": {
     "@iconify/tailwind": "^0.1.3",
     "@nuxtjs/tailwindcss": "^6.9.4",
+    "aos": "^2.3.4",
+    "nuxt-swiper": "^1.2.2",
     "sass": "^1.69.5"
   }
 }
