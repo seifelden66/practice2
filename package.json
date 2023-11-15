@@ -21,6 +21,7 @@
     "@iconify/tailwind": "^0.1.3",
     "@nuxtjs/tailwindcss": "^6.9.4",
     "@vueuse/nuxt": "^10.6.1",
+    "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "nuxt-i18n": "^6.28.1",
     "nuxt-swiper": "^1.2.2",

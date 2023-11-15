@@ -3,7 +3,7 @@
       <div class="flex justify-between items-center mb-1 px-2 md:px-0" :style="$i18n.locale === 'ar' ? 'text-align:right' : 'text-align:left'">
         <div class="">
           <h3>{{ $t("Offers & details") }}</h3>
-          <p>Lorem ipsum dolor sit amet consectetur.</p>
+          <p>{{ $t("Exploring uncharted realms of creativity, where innovation sparks endless possibilities.")}}</p>
         </div>
         <div class="">
           <h4 class="flex items-center gap-2">{{ $t("see details") }} <span>&gt;</span></h4>

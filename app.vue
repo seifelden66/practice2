@@ -4,6 +4,7 @@
       <div class="fixed z-[999] w-full">
         <Nav />
       </div>
+      <SideBar />
       <Hero />
       <div
         class="md:absolute md:left-[50%] md:translate-x-[-50%] md:top-[100vh] dark:z-20"

@@ -2,8 +2,8 @@
   <div class="relative text-[#001D4B] dark:text-white" :dir="$i18n.locale === 'ar' ? 'rtl' : 'ltr'">
     <div class="flex justify-between items-center mb-1 px-2 md:px-0" :style="$i18n.locale === 'ar' ? 'text-align:right' : 'text-align:left'">
       <div class="">
-        <h3>Top Cities</h3>
-        <p>Lorem ipsum dolor sit amet consectetur.</p>
+        <h3>{{ $t("top cities") }}</h3>
+        <p>{{ $t("Exploring uncharted realms of creativity, where innovation sparks endless possibilities.")}}</p>
       </div>
       <div class="">
         <h4 class="flex items-center gap-2">{{ $t("see details") }} <span>&gt;</span></h4>
@@ -19,7 +19,7 @@
         </div>
         <div class="z-20 text-white absolute bottom-3 left-2">
           <h3>{{ i.city }}</h3>
-          <p>{{ i.propsNum }} properties</p>
+          <p>{{ i.propsNum }} {{ $t("properties") }}</p>
         </div>
       </div>
     </div>

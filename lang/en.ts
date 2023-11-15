@@ -2,6 +2,7 @@ export default {
     home: 'Home',
     logo:'LOGO',
     translate:'AR',
+    'Become a host':'Become a host',
     'help': 'Help',
     'signUp': 'Sign Up',
     'login': 'Login',
@@ -9,5 +10,18 @@ export default {
     'yes it is':'YES IT IS',
     'see details':'See details',
     'Embrace curiosity, foster growth.':"Embrace curiosity, foster growth.",
-    'Offers & details': 'Offers & details'
-    };
+    'Offers & details': 'Offers & details',
+    'top cities':'Top Cities',
+    'top resturants':'Top Resturants',
+    'properties':'properties',
+    'Download the app on this link':'Download the app on this link',
+    'Get the app':'Get the app',
+    'Copyright 2018 All Rights Reserved by LOGO ':'Copyright 2018 All Rights Reserved by LOGO ',
+    'company':'COMPANY',
+    'TERMS & CONDITIONS':'TERMS & CONDITIONS',
+    'PRIVACY POLICY':'PRIVACY POLICY',
+    'ADDRESS':'ADDRESS',
+    'ABOUT':'ABOUT',
+    'Contact Us':'Contact Us',
+    'BLOG':'BLOG'
+};

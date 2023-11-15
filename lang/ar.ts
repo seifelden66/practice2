@@ -10,5 +10,18 @@ export default {
     'yes it is':'نعم هي كذلك',
     'see details':'رؤية المزيد',
     "Embrace curiosity, foster growth.":"احتضان الفضول ، وتعزيز النمو.",
-    'Offers & details':'العروض و التفاصيل'
+    'Offers & details':'العروض و التفاصيل',
+    'top cities':'افضل المدن',
+    'top resturants':'افضل المطاعم',
+    'properties':'العقارات',
+    'Download the app on this link':"  حمل التطبيق عن طريق",
+    "Get the app": "احصل على التطبيق",
+    'Copyright 2018 All Rights Reserved by LOGO ':'كل الحقوق محفوظه بواسطة لوجو',
+    'company':'الشركة',
+    'TERMS & CONDITIONS':'الشروط و البنود'  ,
+    'PRIVACY POLICY':'شروط الخصوصيه',
+    'ADDRESS':'العنوان',
+    'ABOUT':'عننا',
+    'Contact Us':'تواصل معنا',
+    'BLOG':'بلوج'
     };
